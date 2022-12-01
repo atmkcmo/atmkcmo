@@ -1,6 +1,6 @@
 # Adam Mckee
 **Front End Developer**  
-Im currently working on a custom portfolio site. In the mean time feel free to browse through the following small projects I have worked on lately. More to come. Other projects can be views via my repos. Feel free to view my [resume](https://drive.google.com/file/d/1EguQC-1_gt5fCPfdjZRzqTpk5mBptzFc/view) as well. Thanks!
+Im currently working on a custom portfolio site. In the mean time feel free to browse through the following projects I have worked on lately. More to come. Other projects can be views via my repos. Feel free to view my [resume](https://drive.google.com/file/d/1EguQC-1_gt5fCPfdjZRzqTpk5mBptzFc/view) as well. Thanks!
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
