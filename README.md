@@ -22,6 +22,7 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 >
+## Recent Projects
 
 ### E-commerce Page
 ![GitHub Logo](./ecommerce.png)  
@@ -47,9 +48,12 @@ Mock insurance pixel perfect landing page build.
 ![GitHub Logo](./component.png)  
 Expenses component build with JSON date and JS.  
 | [Project info/Code](https://github.com/atmkcmo/FM-expenses-chart-component) | 
-[Live site](https://atmkcmo.github.io/FM-expenses-chart-component/) |
+[Live site](https://atmkcmo.github.io/FM-expenses-chart-component/) |  
+  
+  
+To see more projects pleaese see my other [repos](https://github.com/atmkcmo?tab=repositories)
 
-## Technologies
+## Technology
 
 Here are some of the technolgies I like use to create web experiences
 
