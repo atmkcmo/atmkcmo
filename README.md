@@ -35,7 +35,7 @@ Mock audio e-commerce SPA, built with Vue.
 
 <br>
 
-### E-commerce Page
+### Sneakers E-commerce Page
 ![GitHub Logo](./ecommerce.png)  
 Mock designer shoe e-commerce web page.  
 | [Project info/Code](https://github.com/atmkcmo/FM-ecommerce-product-page) | 
