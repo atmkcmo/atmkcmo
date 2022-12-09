@@ -25,20 +25,20 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 
 ### Audiophile Multipage E-commerce site  
 ![GitHub Logo](./audiophile.png)  
-e-commerce SPA built with Vue  
+Audio e-commerce SPA, built with Vue.  
 | [Project info/Code](https://github.com/atmkcmo/audiophile) | 
 [Live site](https://atmkcmo.github.io/audiophile/) |
 
 
 ### E-commerce Page
 ![GitHub Logo](./ecommerce.png)  
-Mock e-commerce page build to match design and functionality of an real web page.  
+Mock e-commerce designer shoe web page.  
 | [Project info/Code](https://github.com/atmkcmo/FM-ecommerce-product-page) | 
 [Live site](https://atmkcmo.github.io/FM-ecommerce-product-page/) |
 
 ### Where in the World App
 ![GitHub Logo](./world-app.png)  
-Web app where user can view flags and stats from counties around the world. Utilzes REST Countries API.  
+Flag and Country Info app utilizing REST Countries API.  
 | [Project info/Code](https://github.com/atmkcmo/where-in-the-world) | 
 [Live site](https://atmkcmo.github.io/where-in-the-world/) |
 
@@ -52,7 +52,7 @@ Mock insurance pixel perfect landing page build.
   
 ### Expenses Component
 ![GitHub Logo](./component.png)  
-Expenses component build with JSON date and JS.  
+Expenses component build with dynamic JSON data and JS.  
 | [Project info/Code](https://github.com/atmkcmo/FM-expenses-chart-component) | 
 [Live site](https://atmkcmo.github.io/FM-expenses-chart-component/) |  
   
