@@ -20,8 +20,12 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
->
+
+<br>
+
 ## Recent Projects  
+
+<br>
 
 ### Audiophile Multipage E-commerce site  
 ![GitHub Logo](./audiophile.png)  
@@ -29,6 +33,7 @@ Audio e-commerce SPA, built with Vue.
 | [Project info/Code](https://github.com/atmkcmo/audiophile) | 
 [Live site](https://atmkcmo.github.io/audiophile/) |
 
+<br>
 
 ### E-commerce Page
 ![GitHub Logo](./ecommerce.png)  
@@ -36,12 +41,15 @@ Mock e-commerce designer shoe web page.
 | [Project info/Code](https://github.com/atmkcmo/FM-ecommerce-product-page) | 
 [Live site](https://atmkcmo.github.io/FM-ecommerce-product-page/) |
 
+<br>
+
 ### Where in the World App
 ![GitHub Logo](./world-app.png)  
 Flag and Country Info app utilizing REST Countries API.  
 | [Project info/Code](https://github.com/atmkcmo/where-in-the-world) | 
 [Live site](https://atmkcmo.github.io/where-in-the-world/) |
 
+<br>
 
 ### Mock Insurance Landing Page
 ![GitHub Logo](./insure.png)  
@@ -49,15 +57,15 @@ Mock insurance pixel perfect landing page build.
 | [Project info/Code](https://github.com/atmkcmo/FM-insure-landing-page) | 
 [Live site](https://atmkcmo.github.io/FM-insure-landing-page/) |  
   
-  
+<br> 
+ 
 ### Expenses Component
 ![GitHub Logo](./component.png)  
 Expenses component build with dynamic JSON data and JS.  
 | [Project info/Code](https://github.com/atmkcmo/FM-expenses-chart-component) | 
 [Live site](https://atmkcmo.github.io/FM-expenses-chart-component/) |  
   
-  
-To see more projects pleaese see my other [repos](https://github.com/atmkcmo?tab=repositories)
+<br>
 
 ## Technology
 
@@ -74,7 +82,11 @@ Here are some of the technolgies I like use to create web experiences
 - Bootstrap
 - Foundation
 
-I am currently working on adding learning React and adding that to that list.
+<br>
+
+Currently learning React; project to come.
+
+<br>
 
 ## Contact
 
