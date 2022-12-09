@@ -29,7 +29,7 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 
 ### Audiophile Multipage E-commerce site  
 ![GitHub Logo](./audiophile.png)  
-Audio e-commerce SPA, built with Vue.  
+Mock audio e-commerce SPA, built with Vue.  
 | [Project info/Code](https://github.com/atmkcmo/audiophile) | 
 [Live site](https://atmkcmo.github.io/audiophile/) |
 
@@ -37,7 +37,7 @@ Audio e-commerce SPA, built with Vue.
 
 ### E-commerce Page
 ![GitHub Logo](./ecommerce.png)  
-Mock e-commerce designer shoe web page.  
+Mock designer shoe e-commerce web page.  
 | [Project info/Code](https://github.com/atmkcmo/FM-ecommerce-product-page) | 
 [Live site](https://atmkcmo.github.io/FM-ecommerce-product-page/) |
 
