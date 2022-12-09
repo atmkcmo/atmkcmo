@@ -90,8 +90,10 @@ Currently learning React; project to come.
 
 ## Contact
 
-Feel free to contact me to discuss Frontend Devleopment, projects, drums, recipes, sandwich shop recommendations, etc.
+Feel free to contact me to discuss Frontend Devleopment, projects, drums, recipes, sandwich shop recommendations, etc.  
+
 <br>
+
 phone: 347.693.8070  
 email: amckeee@gmail.com  
 linkedin: [Adam Mckee](https://www.linkedin.com/in/admckee/)  
