@@ -23,7 +23,7 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 >
 ## Recent Projects  
 
-### Audiophile Multipage E-commerce site
+### Audiophile Multipage E-commerce site  
 ![GitHub Logo](./audiophile.png)  
 e-commerce SPA built with Vue
 | [Project info/Code](https://github.com/atmkcmo/audiophile) | 
