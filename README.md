@@ -94,7 +94,7 @@ Feel free to contact me to discuss Frontend Devleopment, projects, drums, recipe
 
 <br>
 
-phone: 347.693.8070  
+cell: (347) 693-8070  
 email: amckeee@gmail.com  
 linkedin: [Adam Mckee](https://www.linkedin.com/in/admckee/)  
 Resume: [Adam Mckee Resume](https://drive.google.com/file/d/1EguQC-1_gt5fCPfdjZRzqTpk5mBptzFc/view)
