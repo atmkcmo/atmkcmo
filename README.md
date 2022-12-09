@@ -25,7 +25,7 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 
 ### Audiophile Multipage E-commerce site
 ![GitHub Logo](./audiophile.png)  
-Mock e-commerce multipage website  
+e-commerce SPA built with Vue
 | [Project info/Code](https://github.com/atmkcmo/audiophile) | 
 [Live site](https://atmkcmo.github.io/audiophile/) |
 
