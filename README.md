@@ -2,8 +2,7 @@
 **Front End Developer**  
 Im currently working on a custom portfolio site. In the mean time feel free to browse through the following projects I have worked on lately. More to come. Other projects can be views via my repos. Feel free to view my [resume](https://drive.google.com/file/d/1EguQC-1_gt5fCPfdjZRzqTpk5mBptzFc/view) as well. Thanks!
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px">
