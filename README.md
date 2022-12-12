@@ -51,6 +51,14 @@ Flag and Country Info app utilizing REST Countries API.
 
 <br>
 
+### Shortly URL Landing Page
+![GitHub Logo](./shortly.png)  
+Url shortenling landing page intergrated with shrtcode API.  
+| [Project info/Code](https://github.com/atmkcmo/FM-shortly-URL) | 
+[Live site](https://atmkcmo.github.io/FM-shortly-URL/) |  
+  
+<br> 
+
 ### Mock Insurance Landing Page
 ![GitHub Logo](./insure.png)  
 Mock insurance pixel perfect landing page build.  
