@@ -8,6 +8,7 @@ Im currently working on a custom portfolio site. In the mean time feel free to b
 <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/foundation.svg" alt="Foundation" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px">
