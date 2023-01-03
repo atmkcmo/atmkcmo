@@ -1,4 +1,4 @@
-# Hi, my name is Adam Mckee
+# Hi, my name is Adam McKee
 I am a detail-oriented Front End Web Developer advancing knowledge in web application design, performance, creation, and usability. Able to work successfully in a team environment as well as effectively manage oneself during independent initiatives. 
 
 Im currently available for freelance, contract or full time employment. Feel free to reach me at amckeee@gmail.com.  
