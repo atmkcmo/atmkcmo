@@ -45,10 +45,11 @@ Url shortenling landing page intergrated with shrtcode API.
 
 
 
-Here are some of the technolgies I like use to create web experiences
+Here are some of the technolgies I like use to create fantastic web experiences:
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React.js" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="40px" height="40px">
@@ -66,8 +67,6 @@ Here are some of the technolgies I like use to create web experiences
 <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px">
 
 <br>
-
-Currently learning React; project to come.
 
 <br>
 
